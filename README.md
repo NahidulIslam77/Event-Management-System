@@ -18,7 +18,7 @@ Event Management System in C that stores events in a text file. Supports adding,
 
 ## 🚀 How to Run
 1. Clone the repository:
-   git clone https://github.com/YourUsername/event-management-c.git
+   git clone https://github.com/NahidulIslam77/Event-Management-System
    cd event-management-c
 Compile the program:
 gcc main.c -o event_manager
