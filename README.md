@@ -11,7 +11,6 @@ Event Management System in C that stores events in a text file. Supports adding,
 - Save and load events from `events.txt`  
 
 ## 🗂️ File Structure
-.
 ├── events.txt # Stores all event data
 ├── main.c # Source code
 └── README.md # Project description
