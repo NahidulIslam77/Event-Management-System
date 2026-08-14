@@ -13,6 +13,8 @@ Event Management System in C that stores events in a text file. Supports adding,
 **Department:** Computer Science & Engineering (CSE)
 
 **University:** United International University (UIU)
+
+
 **Course Instructor:**  
 Md Shadman Aadeeb
 Assistant Professor, Department of Computer Science & Engineering  
