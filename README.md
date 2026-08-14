@@ -3,6 +3,23 @@
 ## 📖 Description
 Event Management System in C that stores events in a text file. Supports adding, viewing, updating, filtering, and deleting events. Demonstrates file handling, arrays, and structures in C with a simple command-line interface.
 
+---
+
+## 📚 Academic Information
+
+**Course:** CSE 1112: Structured Programming Language Laboratory
+
+
+**Department:** Computer Science & Engineering (CSE)
+
+**University:** United International University (UIU)
+**Course Instructor:**  
+Md Shadman Aadeeb
+Assistant Professor, Department of Computer Science & Engineering  
+United International University
+
+---
+
 ## ⚙️ Features
 - Add new events  
 - View all events or filter by date/location  
