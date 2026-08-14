@@ -17,7 +17,9 @@ Event Management System in C that stores events in a text file. Supports adding,
 
 **Course Instructor:**  
 Md Shadman Aadeeb
+
 Assistant Professor, Department of Computer Science & Engineering  
+
 United International University
 
 ---
